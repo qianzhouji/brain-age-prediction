@@ -175,7 +175,7 @@ https://github.com/qianzhouji/brain-age-prediction
 
 ## 作者
 
-虞珂（基于2025年4月4日会议纪要执行）
+虞珂
 
 ## 日期
 
